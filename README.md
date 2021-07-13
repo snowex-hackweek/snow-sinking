@@ -3,6 +3,8 @@
 
 Project repo. for SnowEx Hackweek 2021
 
+<br />
+
 ### Group Members 
 **Project Lead**: Sam Verplanck 
 
@@ -12,11 +14,11 @@ Project repo. for SnowEx Hackweek 2021
 
 &, Tate Meehan, Anton Surunis, Cara Piske, Megan Guinn
 
-
+<br />
 
 *"This is a super interesting problem, but it's a mess"* - Kelly Elder
 
-
+<br />
 
 ### General Project Interest & Direction
 #### **Evaluation of snow surface properties on Grand Mesa for wildlife applications in the forest vs. open** 
