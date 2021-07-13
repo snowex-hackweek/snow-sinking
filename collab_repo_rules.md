@@ -16,6 +16,10 @@ If two folks are working in a notebook at the same time and they both push chang
 
 Thanks :) 
 
+
+
+Check out the tutorial outlining `git commands` for collaborating! https://snowex-hackweek.github.io/website/tutorials/jupyter.html
+
 <br />
 
-Check here for `git commands` for collaborating! Happy hacking. 
+Happy hacking. 
