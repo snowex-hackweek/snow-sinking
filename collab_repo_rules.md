@@ -14,9 +14,9 @@ If two folks are working in a notebook at the same time and they both push chang
 
 <br />
 
-Thanks :) 
+These are suggestions by Cassie Lumbrazo, based on previous headaches. Feel free to provide any more ideas or hints that you might have. Thanks :) 
 
-
+<br />
 
 Check out the tutorial outlining `git commands` for collaborating! https://snowex-hackweek.github.io/website/tutorials/jupyter.html
 
