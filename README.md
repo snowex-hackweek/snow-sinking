@@ -5,14 +5,20 @@ Project repo. for SnowEx Hackweek 2021
 
 <br />
 
-### Group Members 
+### Project Collaborators
 **Project Lead**: Sam Verplanck 
 
 **Data Lead**: Cassie Lumbrazo and Kelly Elder
 
 **Pitching Lead**: Jessica Lundquist 
 
-&, Tate Meehan, Anton Surunis, Cara Piske, Megan Guinn
+Tate Meehan
+
+Anton Surunis
+
+Cara Piske
+
+Megan Guinn
 
 <br />
 
@@ -21,7 +27,7 @@ Project repo. for SnowEx Hackweek 2021
 <br />
 
 ### General Project Interest & Direction
-#### **Evaluation of snow surface properties on Grand Mesa for wildlife applications in the forest vs. open** 
+#### **Evaluation of snow surface properties on Grand Mesa for wildlife applications in the forest vs. open sites**
 
 Snow surface properties such as, 
 - snow surface hardness 
@@ -37,6 +43,8 @@ Snow surface properties such as,
 - What observations provide qualitative data for surface hardness? 
     - How do these different types of observatiosn compare? 
     
+<br />
+
 
         
         
