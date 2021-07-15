@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE GranuleMetaDataFile SYSTEM "http://ecsinfo.gsfc.nasa.gov/ECSInfo/ecsmetadata/dtds/DPL/ECS/ScienceGranuleMetadata.dtd">
+<GranuleMetaDataFile>
+    <DTDVersion>1.0</DTDVersion>
+    <DataCenterId>NSIDC</DataCenterId>
+    <GranuleURMetaData>
+        <GranuleUR>SC:SNEX20_GM_SP.001:215740872</GranuleUR>
+        <DbID>215740872</DbID>
+        <InsertTime>2021-06-23 16:11:17.510</InsertTime>
+        <LastUpdate>2021-06-23 16:11:17.510</LastUpdate>
+        <CollectionMetaData>
+            <ShortName>SNEX20_GM_SP</ShortName>
+            <VersionID>001</VersionID>
+        </CollectionMetaData>
+        <DataFiles>
+            <DataFileContainer>
+                <DistributedFileName>SnowEx20_SnowPits_GMIOP_Summary_Environment_2020_v01.csv</DistributedFileName>
+                <FileSize>22264</FileSize>
+                <ChecksumType>MD5</ChecksumType>
+                <Checksum>2ef60c315f785be978158a90140d7cb9</Checksum>
+                <ChecksumOrigin>DPLIngst</ChecksumOrigin>
+            </DataFileContainer>
+        </DataFiles>
+        <ECSDataGranule>
+            <SizeMBECSDataGranule>0.0212326</SizeMBECSDataGranule>
+            <LocalGranuleID>SnowEx20_SnowPits_GMIOP_Summary_Environment_2020_v01.csv</LocalGranuleID>
+            <ProductionDateTime>2021-06-23 14:54:16.000</ProductionDateTime>
+        </ECSDataGranule>
+        <RangeDateTime>
+            <RangeEndingTime>23:59:59.990000</RangeEndingTime>
+            <RangeEndingDate>2020-02-12</RangeEndingDate>
+            <RangeBeginningTime>00:00:00.000000</RangeBeginningTime>
+            <RangeBeginningDate>2020-01-27</RangeBeginningDate>
+        </RangeDateTime>
+        <SpatialDomainContainer>
+            <HorizontalSpatialDomainContainer>
+                <BoundingRectangle>
+                    <WestBoundingCoordinate>-108.22593</WestBoundingCoordinate>
+                    <NorthBoundingCoordinate>39.06812</NorthBoundingCoordinate>
+                    <EastBoundingCoordinate>-108.11304</EastBoundingCoordinate>
+                    <SouthBoundingCoordinate>39.00232</SouthBoundingCoordinate>
+                </BoundingRectangle>
+            </HorizontalSpatialDomainContainer>
+        </SpatialDomainContainer>
+        <Platform>
+            <PlatformShortName>GROUND-BASED OBSERVATIONS</PlatformShortName>
+            <Instrument>
+                <InstrumentShortName>SNOW DENSITY CUTTER</InstrumentShortName>
+                <Sensor>
+                    <SensorShortName>SNOW DENSITY CUTTER</SensorShortName>
+                </Sensor>
+            </Instrument>
+        </Platform>
+        <PSAs>
+            <PSA>
+                <PSAName>SIPSMetGenVersion</PSAName>
+                <PSAValue>2.5</PSAValue>
+            </PSA>
+        </PSAs>
+    </GranuleURMetaData>
+</GranuleMetaDataFile>
+
