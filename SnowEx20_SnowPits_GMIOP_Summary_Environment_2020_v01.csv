@@ -1,0 +1,156 @@
+Location,Site,PitID,Date/Local Time,UTM Zone,Easting (m),Northing (m),Precipitation,Sky,Wind,Ground Condition,Ground Roughness,Ground Vegetation,Height of Ground Vegetation (cm),Canopy
+Grand Mesa,1C14,COGM1C14_20200131,2020-01-31T14:01,12N,742453,4325752,None,Overcast(complete cover),Light,Frozen,Smooth,Grass | Shrub,3 | 39,No Trees
+Grand Mesa,1C1,COGM1C1_20200131,2020-01-31T11:07,12N,740508,4327577,None,Overcast(complete cover),Calm,Frozen,Rough,Grass | Shrub,14 | 25,No Trees
+Grand Mesa,1C1,COGM1C1_20200208,2020-02-08T08:30,12N,740506,4327589,None,Few (< 1/4 of sky),Moderate,Frozen,Smooth,Grass | Shrub,5 | 25,No Trees
+Grand Mesa,1C5,COGM1C5_20200212,2020-02-12T11:26,12N,740919,4327334,None,Broken (> 1/2 of sky),Light,Frozen,Rugged,Shrub,35-75,No Trees
+Grand Mesa,1C7,COGM1C7_20200131,2020-01-31T10:55,12N,741378,4326992,None,Overcast(complete cover),Calm,Frozen,Smooth,Shrub,20,No Trees
+Grand Mesa,1C8,COGM1C8_20200131,2020-01-31T15:10,12N,741493,4326833,None,Clear,Calm,Frozen,Smooth,Shrub,50,No Trees
+Grand Mesa,1N1,COGM1N1_20200208,2020-02-08T08:56,12N,740503,4324293,None,Few (< 1/4 of sky),Moderate,Frozen,Smooth,Grass | Shrub,5 - 10 | 10 - 20,No Trees
+Grand Mesa,1N20,COGM1N20_20200205,2020-02-05T13:30,12N,743281,4324005,None,Few (< 1/4 of sky),Moderate,Frozen,Rough,Grass,5,No Trees
+Grand Mesa,1N23,COGM1N23_20200211,2020-02-11T15:50,12N,743548,4324077,None,Clear,Calm,Frozen,Smooth,Grass | Shrub,18 | 23,No Trees
+Grand Mesa,1N3,COGM1N3_20200211,2020-02-11T11:08,12N,740759,4324208,None,Clear,Calm,Frozen,Smooth,Bare | Grass | Shrub,5 | 20,No Trees
+Grand Mesa,1N5,COGM1N5_20200211,2020-02-11T15:04,12N,741369,4324492,None,Clear,Calm,Frozen,Smooth,Grass | Shrub,20 | 20,No Trees
+Grand Mesa,1N6,COGM1N6_20200128,2020-01-28T13:20,12N,741510,4324472,None,Clear,Calm,Frozen,Smooth,Grass,12,No Trees
+Grand Mesa,1N7,COGM1N7_20200211,2020-02-11T13:40,12N,741866,4324050,None,Clear,Calm,Frozen,Rough,Grass | Shrub,20 | 40,No Trees
+Grand Mesa,1S12,COGM1S12_20200211,2020-02-11T09:17,12N,743158,4322557,None,Clear,Calm,Frozen,Rough,Grass | Shrub,3 | 20,No Trees
+Grand Mesa,1S13,COGM1S13_20200205,2020-02-05T13:15,12N,743277,4322508,None,Scattered (1/4 - 1/2 of sky),Moderate,Frozen,Smooth,Grass | Shrub,20 | 40,No Trees
+Grand Mesa,1S17,COGM1S17_20200208,2020-02-08T15:30,12N,743987,4322748,None,Few (< 1/4 of sky),Light,Frozen,Rough,Bare | Grass,,No Trees
+Grand Mesa,1S1,COGM1S1_20200129,2020-01-29T09:05,12N,741920,4322845,None,Broken (> 1/2 of sky),Moderate,Frozen,Smooth,Bare,,No Trees
+Grand Mesa,1S2,COGM1S2_20200208,2020-02-08T09:37,12N,742115,4322712,None,Few (< 1/4 of sky),Light,Frozen,Smooth,Grass,5,No Trees
+Grand Mesa,1S8,COGM1S8_20200201,2020-02-01T09:00,12N,742607,4322917,None,Few (< 1/4 of sky),Calm,Frozen,Smooth,Grass,15,No Trees
+Grand Mesa,2C12,COGM2C12_20200212,2020-02-12T08:48,12N,742229,4326414,Very Light,Broken (> 1/2 of sky),Light,Frozen,Rough,Shrub,30,No Trees
+Grand Mesa,2C13,COGM2C13_20200212,2020-02-12T10:12,12N,742229,4326011,Light,Overcast(complete cover),Light,Frozen,Rugged,Shrub,35,No Trees
+Grand Mesa,2C2,COGM2C2_20200131,2020-01-31T09:00,12N,740652,4327445,None,Scattered (1/4 - 1/2 of sky),Calm,Frozen,Smooth,Shrub,30,No Trees
+Grand Mesa,2C33,COGM2C33_20200130,2020-01-30T15:00,12N,745787,4322066,Light,Overcast(complete cover),Moderate,Frozen,Rough,Grass | Shrub,20 | 30,No Trees
+Grand Mesa,2C3,COGM2C3_20200131,2020-01-31T12:27,12N,740765,4327379,None,Overcast(complete cover),Light,Frozen,Smooth,Grass,5,No Trees
+Grand Mesa,2C4,COGM2C4_20200131,2020-01-31T10:05,12N,740839,4327345,None,Broken (> 1/2 of sky),Calm,Frozen,Smooth,Grass | Shrub,10 | 40,No Trees
+Grand Mesa,2C6,COGM2C6_20200131,2020-01-31T14:05,12N,741132,4327061,None,Overcast(complete cover),Calm,Frozen,Smooth,Grass | Shrub,4 | 30,No Trees
+Grand Mesa,2C9,COGM2C9_20200131,2020-01-31T11:50,12N,741580,4326713,None,Overcast(complete cover),Light,Frozen,Smooth,Grass | Shrub,2 | 35,No Trees
+Grand Mesa,2N12,COGM2N12_20200131,2020-01-31T09:05,12N,742466,4324372,None,Broken (> 1/2 of sky),Calm,Frozen,Rough,Bare | Grass,5,No Trees
+Grand Mesa,2N13,COGM2N13_20200206,2020-02-06T09:32,12N,742685,4324287,Very Light,Overcast(complete cover),Moderate,Frozen,Smooth,Grass | Shrub,15 | 25,No Trees
+Grand Mesa,2N14,COGM2N14_20200211,2020-02-11T13:00,12N,742850,4324221,None,Clear,Calm,Frozen,Rough,Grass | Shrub,6 | 40,No Trees
+Grand Mesa,2N21,COGM2N21_20200211,2020-02-11T15:00,12N,743466,4324104,None,Clear,Calm,Frozen,Smooth,Shrub,16,No Trees
+Grand Mesa,2N48,COGM2N48_20200201,2020-02-01T14:51,12N,746802,4324222,None,Overcast(complete cover),Calm,Frozen,Smooth,Grass | Shrub,10 | 20,No Trees
+Grand Mesa,2N49,COGM2N49_20200210,2020-02-10T15:16,12N,746800,4323946,None,Scattered (1/4 - 1/2 of sky),Light,Frozen,Rugged,Grass | Shrub,20 | 30,No Trees
+Grand Mesa,2N4,COGM2N4_20200128,2020-01-28T11:25,12N,740811,4324488,None,Clear,Calm,Frozen,Smooth,Grass,10,No Trees
+Grand Mesa,2N8,COGM2N8_20200208,2020-02-08T09:51,12N,742054,4324454,None,Few (< 1/4 of sky),Light,Frozen,Smooth,Grass | Shrub,15 | 35,No Trees
+Grand Mesa,2S10,COGM2S10_20200205,2020-02-05T09:45,12N,743076,4322689,None,Few (< 1/4 of sky),Moderate,Frozen,Rough,Grass | Shrub,20 | 30,No Trees
+Grand Mesa,2S11,COGM2S11_20200201,2020-02-01T11:00,12N,743109,4322924,None,Overcast(complete cover),Calm,Frozen,Rough,Bare,,No Trees
+Grand Mesa,2S16,COGM2S16_20200208,2020-02-08T14:05,12N,743950,4322638,None,Few (< 1/4 of sky),Light,Frozen,Smooth,Grass,5,No Trees
+Grand Mesa,2S20,COGM2S20_20200206,2020-02-06T08:47,12N,744458,4322697,Moderate,Overcast(complete cover),Light,Frozen,Smooth,Grass,10,No Trees
+Grand Mesa,2S25,COGM2S25_20200129,2020-01-29T08:50,12N,745161,4322395,None,Overcast(complete cover),Light,Frozen,Smooth,Grass | Shrub,12 | 25,No Trees
+Grand Mesa,2S27,COGM2S27_20200204,2020-02-04T15:15,12N,745251,4322588,None,Broken (> 1/2 of sky),Moderate,Frozen,Smooth,Grass | Shrub,20 | 25,No Trees
+Grand Mesa,2S35,COGM2S35_20200130,2020-01-30T13:10,12N,745678,4322446,Light,Overcast(complete cover),Light,Frozen,Smooth,Grass | Shrub,10 | 40,No Trees
+Grand Mesa,2S36,COGM2S36_20200129,2020-01-29T13:38,12N,745711,4322356,Very Light,Broken (> 1/2 of sky),Moderate,Frozen,Rough,Grass,10,No Trees
+Grand Mesa,2S37,COGM2S37_20200201,2020-02-01T08:40,12N,745937,4322754,None,Overcast(complete cover),Light,Frozen,Smooth,Grass,10,No Trees
+Grand Mesa,2S3,COGM2S3_20200129,2020-01-29T10:35,12N,742155,4322840,None,Overcast(complete cover),Moderate,Frozen,Rough,Grass | Shrub,20 | 25,No Trees
+Grand Mesa,2S45,COGM2S45_20200210,2020-02-10T08:44,12N,747316,4322396,None,Broken (> 1/2 of sky),Calm,Frozen,Rough,Grass,15-20,No Trees
+Grand Mesa,2S46,COGM2S46_20200204,2020-02-04T10:30,12N,747466,4322453,None,Few (< 1/4 of sky),Light,Frozen,Smooth,Grass | Shrub,10 | 30,No Trees
+Grand Mesa,2S48,COGM2S48_20200129,2020-01-29T09:10,12N,747670,4322397,None,Broken (> 1/2 of sky),Light,Frozen,Smooth,Grass | Shrub,25 | 25,No Trees
+Grand Mesa,2S4,COGM2S4_20200205,2020-02-05T09:30,12N,742304,4322496,None,Few (< 1/4 of sky),Light,Frozen,Smooth,Grass | Shrub,20 | 50,No Trees
+Grand Mesa,2S6,COGM2S6_20200211,2020-02-11T11:25,12N,742602,4322943,None,Clear,Calm,Frozen,Rough,Grass,9,No Trees
+Grand Mesa,2S7,COGM2S7_20200208,2020-02-08T11:35,12N,742605,4322584,None,Few (< 1/4 of sky),Light,Frozen,Rough,Grass | Shrub,10 | 20,No Trees
+Grand Mesa,2S9,COGM2S9_20200205,2020-02-05T10:55,12N,743083,4322876,Very Light,Overcast(complete cover),Light,Frozen,Rough,Grass | Shrub,20 | 20,No Trees
+Grand Mesa,3N22,COGM3N22_20200128,2020-01-28T13:55,12N,743509,4324117,None,Clear,Calm,Frozen,Smooth,Grass | Shrub,18 | 20,No Trees
+Grand Mesa,3N26,COGM3N26_20200208,2020-02-08T13:25,12N,743728,4324258,None,Clear,Light,Frozen,Smooth,Grass,5,No Trees
+Grand Mesa,3N53,COGM3N53_20200128,2020-01-28T15:31,12N,747302,4323917,None,Clear,Calm,Frozen,Rough,Grass,30,No Trees
+Grand Mesa,3S14,COGM3S14_20200201,2020-02-01T13:20,12N,743652,4322680,None,Broken (> 1/2 of sky),Calm,Frozen,Smooth,Grass | Shrub,10 | 40,No Trees
+Grand Mesa,3S33,COGM3S33_20200204,2020-02-04T11:24,12N,745529,4322471,None,Clear,Light,Frozen,Smooth,Grass,10,No Trees
+Grand Mesa,3S38,COGM3S38_20200201,2020-02-01T11:18,12N,746149,4322488,None,Overcast(complete cover),Calm,Frozen,Rough,Shrub,25,No Trees
+Grand Mesa,3S47,COGM3S47_20200129,2020-01-29T12:56,12N,747487,4322259,None,Broken (> 1/2 of sky),Light,Frozen,Smooth,Grass,30,No Trees
+Grand Mesa,3S52,COGM3S52_20200204,2020-02-04T14:43,12N,748777,4322533,Very Light,Overcast(complete cover),Light,Frozen,Smooth,Grass,5,No Trees
+Grand Mesa,3S5,COGM3S5_20200129,2020-01-29T12:10,12N,742531,4322632,None,Broken (> 1/2 of sky),Moderate,Frozen,Smooth,Grass,10,No Trees
+Grand Mesa,4C30,COGM4C30_20200131,2020-01-31T11:00,12N,744862,4323250,None,Overcast(complete cover),Calm,Frozen,Smooth,Grass | Shrub,10 | 30,Sparse (5-20%)
+Grand Mesa,4N27,COGM4N27_20200130,2020-01-30T09:14,12N,743817,4324185,None,Overcast(complete cover),Calm,Frozen,Smooth,Grass | Shrub,10 | 50,Sparse (5-20%)
+Grand Mesa,4N2,COGM4N2_20200128,2020-01-28T09:15,12N,740541,4324500,None,Clear,Light,Frozen,Rough,Grass | Shrub,10/25/2020 0:00,No Trees
+Grand Mesa,5C20,COGM5C20_20200130,2020-01-30T09:15,12N,743402,4324736,None,Overcast(complete cover),Calm,Frozen,Smooth,Grass | Shrub,20 | 40,No Trees
+Grand Mesa,5C21,COGM5C21_20200130,2020-01-30T09:20,12N,743884,4324477,None,Overcast(complete cover),Light,Frozen,Rough,Grass,20,No Trees
+Grand Mesa,5C27,COGM5C27_20200209,2020-02-09T10:35,12N,744668,4323404,Light,Overcast(complete cover),Calm,Frozen,Rough,Grass | Shrub,5 | 22,No Trees
+Grand Mesa,5N10,COGM5N10_20200128,2020-01-28T15:05,12N,742378,4324184,None,Broken (> 1/2 of sky),Calm,Frozen,Rough,Grass | Shrub,20 | 30,No Trees
+Grand Mesa,5N10,COGM5N10_20200210,2020-02-10T12:57,12N,742375,4324185,None,Few (< 1/4 of sky),Calm,Frozen,Smooth,Grass,24,No Trees
+Grand Mesa,5N11,COGM5N11_20200210,2020-02-10T14:37,12N,742378,4324465,None,Few (< 1/4 of sky),Light,Frozen,Smooth,Grass | Shrub,12 | 12,No Trees
+Grand Mesa,5N15,COGM5N15_20200206,2020-02-06T11:11,12N,743059,4324276,Very Light,Overcast(complete cover),Moderate,Frozen,Smooth,Grass | Shrub,10 | 25,No Trees
+Grand Mesa,5N19,COGM5N19_20200128,2020-01-28T11:27,12N,743219,4324260,None,Clear,Calm,Frozen,Smooth,Grass,22,No Trees
+Grand Mesa,5N24,COGM5N24_20200212,2020-02-12T13:45,12N,743604,4324202,None,Scattered (1/4 - 1/2 of sky),Light,Frozen,Rough,Shrub,34,No Trees
+Grand Mesa,5N32,COGM5N32_20200212,2020-02-12T12:57,12N,744824,4323962,None,Scattered (1/4 - 1/2 of sky),Moderate,Frozen,Smooth,Grass | Shrub,20 | 30,No Trees
+Grand Mesa,5N41,COGM5N41_20200130,2020-01-30T15:16,12N,745598,4323988,Very Light,Overcast(complete cover),Light,Frozen,Smooth,Grass | Shrub,5 | 30,Sparse (5-20%)
+Grand Mesa,5N50,COGM5N50_20200201,2020-02-01T13:40,12N,747055,4323916,None,Overcast(complete cover),Calm,Frozen,Smooth,Grass | Shrub,30 | 15,Sparse (5-20%)
+Grand Mesa,5S21,COGM5S21_20200201,2020-02-01T14:30,12N,744561,4322721,None,Overcast(complete cover),Light,Frozen,Smooth,Grass,10,No Trees
+Grand Mesa,5S24,COGM5S24_20200129,2020-01-29T10:25,12N,745093,4322617,None,Overcast(complete cover),Moderate,Frozen,Smooth,Grass,10,No Trees
+Grand Mesa,5S29,COGM5S29_20200204,2020-02-04T13:40,12N,745419,4322599,None,Broken (> 1/2 of sky),Calm,Frozen,Smooth,Grass | Shrub,10 | 40,No Trees
+Grand Mesa,5S31,COGM5S31_20200130,2020-01-30T14:35,12N,745458,4322762,Light,Overcast(complete cover),Light,Frozen,Smooth,Grass | Shrub,10 | 25,No Trees
+Grand Mesa,5S42,COGM5S42_20200204,2020-02-04T13:37,12N,746873,4322409,None,Broken (> 1/2 of sky),Calm,Frozen,Smooth,Grass | Shrub,5 | 20,No Trees
+Grand Mesa,5S43,COGM5S43_20200129,2020-01-29T11:02,12N,746929,4322662,None,Overcast(complete cover),Light,Frozen,Smooth,Bare,,Closed (>70%)
+Grand Mesa,5S49,COGM5S49_20200204,2020-02-04T09:10,12N,747771,4322500,None,Few (< 1/4 of sky),Calm,Frozen,Smooth,Shrub,35,Sparse (5-20%)
+Grand Mesa,6C10,COGM6C10_20200131,2020-01-31T13:05,12N,741960,4326644,None,Overcast(complete cover),Light,Frozen,Smooth,Grass | Shrub,5 | 30,No Trees
+Grand Mesa,6C24,COGM6C24_20200131,2020-01-31T13:55,12N,744757,4323667,None,Broken (> 1/2 of sky),Calm,Frozen,Smooth,Grass,5,No Trees
+Grand Mesa,6C34,COGM6C34_20200201,2020-02-01T14:26,12N,746350,4321976,None,Broken (> 1/2 of sky),Calm,Frozen,Smooth,Grass | Shrub,10 | 45,No Trees
+Grand Mesa,6C37,COGM6C37_20200129,2020-01-29T15:00,12N,746962,4321491,None,Broken (> 1/2 of sky),Light,Frozen,Smooth,Grass,15,Sparse (5-20%)
+Grand Mesa,6N16,COGM6N16_20200208,2020-02-08T11:25,12N,743099,4324022,None,Few (< 1/4 of sky),Light,Frozen,Smooth,Bare | Grass,5,No Trees
+Grand Mesa,6N17,COGM6N17_20200210,2020-02-10T10:40,12N,743103,4324384,None,Scattered (1/4 - 1/2 of sky),Calm,Frozen,Rough,Grass | Shrub,5 | 35,Sparse (5-20%)
+Grand Mesa,6N18,COGM6N18_20200128,2020-01-28T09:13,12N,743137,4324309,None,Clear,Calm,Frozen,Smooth,Grass,2,No Trees
+Grand Mesa,6N31,COGM6N31_20200130,2020-01-30T11:30,12N,744625,4323947,Very Light,Broken (> 1/2 of sky),Light,Frozen,Smooth,Grass,10,No Trees
+Grand Mesa,6N36,COGM6N36_20200130,2020-01-30T14:30,12N,745121,4324175,Very Light,Overcast(complete cover),Calm,Frozen,Smooth,Grass,20,No Trees
+Grand Mesa,6N46,COGM6N46_20200201,2020-02-01T12:24,12N,746553,4323759,None,Broken (> 1/2 of sky),Light,Frozen,Smooth,Shrub,50,No Trees
+Grand Mesa,6S15,COGM6S15_20200205,2020-02-05T11:50,12N,743856,4322407,Very Light,Overcast(complete cover),Light,Frozen,Smooth,Grass,10,Sparse (5-20%)
+Grand Mesa,6S19,COGM6S19_20200129,2020-01-29T14:00,12N,744083,4322607,None,Broken (> 1/2 of sky),Moderate,Frozen,Rough,Shrub,20,Sparse (5-20%)
+Grand Mesa,6S22,COGM6S22_20200205,2020-02-05T14:57,12N,744889,4322806,None,Few (< 1/4 of sky),Light,Frozen,Rough,Grass | Shrub,5 | 30,No Trees
+Grand Mesa,6S26,COGM6S26_20200212,2020-02-12T09:05,12N,745243,4322637,Light,Broken (> 1/2 of sky),Light,Frozen,Smooth,Grass | Shrub,10 | 60,No Trees
+Grand Mesa,6S32,COGM6S32_20200206,2020-02-06T11:05,12N,745477,4322480,Very Light,Overcast(complete cover),Moderate,Frozen,Smooth,Grass | Shrub,5 | 40,No Trees
+Grand Mesa,6S34,COGM6S34_20200204,2020-02-04T09:50,12N,745660,4322361,None,Few (< 1/4 of sky),Calm,Frozen,Smooth,Grass | Shrub,20 | 60,No Trees
+Grand Mesa,6S44,COGM6S44_20200204,2020-02-04T11:43,12N,747070,4322511,None,Scattered (1/4 - 1/2 of sky),Light,Frozen,Smooth,Grass,5,No Trees
+Grand Mesa,6S53,COGM6S53_20200206,2020-02-06T09:49,12N,748950,4322498,Very Light,Overcast(complete cover),Moderate,Frozen,Smooth,Grass,10,No Trees
+Grand Mesa,7C15,COGM7C15_20200130,2020-01-30T11:24,12N,742674,4325582,Very Light,Broken (> 1/2 of sky),Calm,Frozen,Smooth,Grass,TRUE,Sparse (5-20%)
+Grand Mesa,7N40,COGM7N40_20200204,2020-02-04T09:18,12N,745516,4324012,None,Few (< 1/4 of sky),Light,Frozen,Smooth,Grass,20,No Trees
+Grand Mesa,7N57,COGM7N57_20200128,2020-01-28T12:49,12N,747792,4323957,None,Clear,Calm,Moist,Smooth,Bare | Deadfall,,Closed (>70%)
+Grand Mesa,7S23,COGM7S23_20200206,2020-02-06T10:01,12N,744913,4322546,None,Overcast(complete cover),Light,Frozen,Smooth,Bare,,Closed (>70%)
+Grand Mesa,7S50,COGM7S50_20200206,2020-02-06T08:44,12N,748150,4322220,Moderate,Overcast(complete cover),Light,Frozen,Smooth,Grass | Deadfall,2 | 10,Closed (>70%)
+Grand Mesa,8C11,COGM8C11_20200205,2020-02-05T13:45,12N,741935,4326488,None,Clear,Moderate,Frozen,Smooth,Shrub,40,Sparse (5-20%)
+Grand Mesa,8C18,COGM8C18_20200205,2020-02-05T10:00,12N,743228,4324943,None,Clear,Calm,Frozen,Smooth,Grass | Shrub,10 | 35,Sparse (5-20%)
+Grand Mesa,8C22,COGM8C22_20200131,2020-01-31T15:00,12N,744477,4323731,None,Scattered (1/4 - 1/2 of sky),Light,Frozen,Smooth,Grass | Shrub,5 | 34,Open (20-70%)
+Grand Mesa,8C25,COGM8C25_20200130,2020-01-30T13:30,12N,744548,4323646,Very Light,Overcast(complete cover),Calm,Frozen,Rough,Grass | Deadfall,2 | 3,Open (20-70%)
+Grand Mesa,8C26,COGM8C26_20200131,2020-01-31T12:53,12N,744396,4323540,None,Overcast(complete cover),Light,Frozen,Rough,Grass,10,Sparse (5-20%)
+Grand Mesa,8C29,COGM8C29_20200205,2020-02-05T11:53,12N,744816,4323284,None,Overcast(complete cover),Light,Frozen,Smooth,Grass,6-May,Closed (>70%)
+Grand Mesa,8C31,COGM8C31_20200209,2020-02-09T12:30,12N,745520,4322983,Very Light,Overcast(complete cover),Calm,Moist,Rough,Grass | Shrub,10-20 | 25 - 40,Open (20-70%)
+Grand Mesa,8C32,COGM8C32_20200209,2020-02-09T13:50,12N,745586,4322879,Very Light,Overcast(complete cover),Calm,Frozen,Rough,Grass | Deadfall,10-15 | 15,Open (20-70%)
+Grand Mesa,8C35,COGM8C35_20200205,2020-02-05T10:20,12N,746145,4321822,None,Few (< 1/4 of sky),Light,Frozen,Smooth,Grass | Deadfall,5 | 30,Open (20-70%)
+Grand Mesa,8C36,COGM8C36_20200205,2020-02-05T09:22,12N,746373,4321595,None,Few (< 1/4 of sky),Calm,Frozen,Smooth,Grass | Shrub,5 | 10,Sparse (5-20%)
+Grand Mesa,8N25,COGM8N25_20200128,2020-01-28T15:47,12N,743619,4324416,None,Overcast(complete cover),Calm,Frozen,Smooth,Grass | Shrub,10 | 25,Sparse (5-20%)
+Grand Mesa,8N33,COGM8N33_20200206,2020-02-06T10:30,12N,744864,4323923,None,Overcast(complete cover),Moderate,Frozen,Smooth,Grass,20,Open (20-70%)
+Grand Mesa,8N34,COGM8N34_20200130,2020-01-30T13:15,12N,744913,4324095,Moderate,Overcast(complete cover),Light,Frozen,Smooth,Grass,12,No Trees
+Grand Mesa,8N35,COGM8N35_20200210,2020-02-10T13:33,12N,744955,4324190,None,Few (< 1/4 of sky),Calm,Frozen,Rugged,Grass | Shrub,15,Sparse (5-20%)
+Grand Mesa,8N37,COGM8N37_20200204,2020-02-04T10:30,12N,745264,4324166,None,Clear,Light,Frozen,Smooth,Grass,10,Open (20-70%)
+Grand Mesa,8N38,COGM8N38_20200130,2020-01-30T13:42,12N,745305,4323998,Very Light,Overcast(complete cover),Calm,Frozen,Smooth,Grass,5,Closed (>70%)
+Grand Mesa,8N45,COGM8N45_20200201,2020-02-01T10:51,12N,746546,4324066,None,Broken (> 1/2 of sky),Calm,Frozen,Smooth,Grass | Shrub,10 | 30,Open (20-70%)
+Grand Mesa,8N51,COGM8N51_20200204,2020-02-04T12:12,12N,747066,4324128,None,Few (< 1/4 of sky),Calm,Frozen,Smooth,Grass,5,Closed (>70%)
+Grand Mesa,8N52,COGM8N52_20200204,2020-02-04T15:00,12N,747120,4324068,Very Light,Overcast(complete cover),Light,Frozen,Smooth,Grass,5,Open (20-70%)
+Grand Mesa,8N54,COGM8N54_20200204,2020-02-04T10:50,12N,747430,4324075,None,Clear,Calm,Frozen,Smooth,Grass | Deadfall,5 | 15,Open (20-70%)
+Grand Mesa,8N55,COGM8N55_20200128,2020-01-28T14:25,12N,747535,4323888,None,Clear,Calm,Frozen,Smooth,Shrub,5,Open (20-70%)
+Grand Mesa,8N58,COGM8N58_20200128,2020-01-28T10:54,12N,747987,4324056,None,Clear,Calm,Moist,Rough,Bare | Deadfall,,Open (20-70%)
+Grand Mesa,8N9,COGM8N9_20200205,2020-02-05T14:52,12N,742330,4324014,None,Clear,Moderate,Frozen,Smooth,Grass | Shrub,5 | 5,Open (20-70%)
+Grand Mesa,8S18,COGM8S18_20200205,2020-02-05T13:40,12N,744072,4322442,None,Clear,Light,Frozen,Smooth,Grass | Shrub | Deadfall,5 | 30 | 20,Sparse (5-20%)
+Grand Mesa,8S28,COGM8S28_20200131,2020-01-31T14:30,12N,745340,4322754,None,Overcast(complete cover),Light,Frozen,Smooth,Grass,10,Sparse (5-20%)
+Grand Mesa,8S30,COGM8S30_20200129,2020-01-29T12:07,12N,745437,4322453,None,Overcast(complete cover),Moderate,Frozen,Smooth,Grass | Shrub,20 | 30,Sparse (5-20%)
+Grand Mesa,8S41,COGM8S41_20200210,2020-02-10T10:30,12N,746783,4322484,None,Scattered (1/4 - 1/2 of sky),Calm,Frozen,Rough,Grass | Deadfall,10 | 10,Closed (>70%)
+Grand Mesa,9C16,COGM9C16_20200205,2020-02-05T11:45,12N,742581,4325429,Light,Overcast(complete cover),Calm,Frozen,Smooth,Grass,15,Open (20-70%)
+Grand Mesa,9C17,COGM9C17_20200130,2020-01-30T08:57,12N,743040,4324967,None,Overcast(complete cover),Calm,Frozen,Smooth,Bare,,Closed (>70%)
+Grand Mesa,9C19,COGM9C19_20200130,2020-01-30T11:43,12N,743446,4324827,Very Light,Overcast(complete cover),Calm,Frozen,Smooth,Grass,25,Open (20-70%)
+Grand Mesa,9C23,COGM9C23_20200209,2020-02-09T09:00,12N,744493,4323689,Very Light,Overcast(complete cover),Calm,Frozen,Smooth,Grass,15,Open (20-70%)
+Grand Mesa,9C28,COGM9C28_20200131,2020-01-31T09:15,12N,745010,4323372,None,Clear,Calm,Frozen,Smooth,Grass,10,Open (20-70%)
+Grand Mesa,9N28,COGM9N28_20200208,2020-02-08T14:45,12N,744087,4324155,None,Clear,Light,Frozen,Smooth,Grass | Shrub,20 | 40,Sparse (5-20%)
+Grand Mesa,9N29,COGM9N29_20200130,2020-01-30T11:15,12N,744281,4324245,Very Light,Overcast(complete cover),Calm,Frozen,Rough,Grass | Shrub,25,No Trees
+Grand Mesa,9N30,COGM9N30_20200206,2020-02-06T09:00,12N,744436,4323989,Moderate,Overcast(complete cover),Moderate,Frozen,Smooth,Grass,10,Sparse (5-20%)
+Grand Mesa,9N39,COGM9N39_20200210,2020-02-10T12:30,12N,745296,4324039,None,Clear,Calm,Frozen,Rough,Grass | Deadfall,23 | 50,Open (20-70%)
+Grand Mesa,9N42,COGM9N42_20200204,2020-02-04T12:40,12N,745644,4324255,None,Clear,Calm,Frozen,Smooth,Grass,15,No Trees
+Grand Mesa,9N43,COGM9N43_20200204,2020-02-04T14:00,12N,745650,4324097,None,Overcast(complete cover),Light,Frozen,Rough,Grass | Shrub,10 | 20,Sparse (5-20%)
+Grand Mesa,9N44,COGM9N44_20200201,2020-02-01T09:06,12N,745842,4323805,None,Broken (> 1/2 of sky),Calm,Frozen,Smooth,Grass,10,No Trees
+Grand Mesa,9N47,COGM9N47_20200204,2020-02-04T01:35,12N,746602,4324147,None,Overcast(complete cover),Light,Frozen,Smooth,Shrub,30,Closed (>70%)
+Grand Mesa,9N56,COGM9N56_20200204,2020-02-04T09:14,12N,747643,4324124,None,Clear,Calm,Frozen,Smooth,Grass,5,Open (20-70%)
+Grand Mesa,9N59,COGM9N59_20200128,2020-01-28T09:40,12N,748086,4323972,None,Clear,Calm,Moist,Smooth,Grass,25,Open (20-70%)
+Grand Mesa,9S39,COGM9S39_20200201,2020-02-01T10:20,12N,746228,4322671,None,Clear,Calm,Frozen,Rough,Grass | Deadfall,10 | 10,Open (20-70%)
+Grand Mesa,9S40,COGM9S40_20200201,2020-02-01T13:20,12N,746303,4322571,None,Overcast(complete cover),Calm,Frozen,Smooth,Bare,,Closed (>70%)
+Grand Mesa,9S51,COGM9S51_20200129,2020-01-29T15:10,12N,748321,4322631,None,Broken (> 1/2 of sky),Calm,Frozen,Smooth,Bare,,Closed (>70%)
+Grand Mesa,FL1B,COGMFL1B_20200212,2020-02-12T10:44,12N,744639,4323010,None,Broken (> 1/2 of sky),Light,Frozen,Smooth,Grass | Shrub,10 | 30,No Trees
+Grand Mesa,FL2A,COGMFL2A_20200211,2020-02-11T09:30,12N,740660,4324274,None,Clear,Calm,Frozen,Smooth,Grass | Shrub,7 | 30,No Trees
+Grand Mesa,TLSFL2A,COGMTLSFL2A_20200210,2020-02-10T09:00,12N,743265,4324606,None,Broken (> 1/2 of sky),Light,Frozen,Smooth,Shrub,40,Sparse (5-20%)
+Grand Mesa,GML,COGMGML_20200203,2020-02-03T14:00,12N,759386,4325399,Light,Overcast(complete cover),Light,Frozen,Rough,Grass,15,Sparse (5-20%)
